@@ -1,5 +1,5 @@
 # Technologies
-Dans cette application nous avons utiliser 
+Dans cette application nous avons utilisé 
 # CSS, 
 (Css Vanila, Bootstrap, ....)
 # JS 
